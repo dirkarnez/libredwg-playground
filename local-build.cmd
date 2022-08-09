@@ -15,7 +15,7 @@ D:\Softwares\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\mingw64;^
 D:\Softwares\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\mingw64\bin;^
 D:\Softwares\cmake-3.23.0-rc1-windows-x86_64\bin;
 
-cmake.exe -G"MinGW Makefiles" -DCMAKE_BUILD_TYPE=Debug -DLIBREDWG_ROOT="D:/Code Projects/cpp-libraries/libredwg/build/libredwg-installation" -B./build &&^
+cmake.exe -G"MinGW Makefiles" -DCMAKE_BUILD_TYPE=Debug -DLIBREDWG_ROOT="D:/Code Projects/cpp-libraries/libredwg-ce32962da3f247937f6355f80a113ea716016e998-x86_64-posix-seh-rev0-8.1.0" -B./build &&^
 cd build &&^
 cmake --build . &&^
 echo "Successful build"

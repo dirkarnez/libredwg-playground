@@ -4,7 +4,7 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "D:\\Code Projects\\cpp-libraries\\libredwg-v0.12.5-x86_64-posix-seh-rev0-8.1.0\\include\\**"
+                "D:\\Code Projects\\cpp-libraries\\libredwg-ce32962da3f247937f6355f80a113ea716016e998-x86_64-posix-seh-rev0-8.1.0\\include\\**"
             ],
             "defines": [
                 "_DEBUG",
