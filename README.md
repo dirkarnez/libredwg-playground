@@ -1,3 +1,7 @@
 libredwg-playground
 ===================
-https://github.com/LibreDWG/libredwg/blob/master/programs/dwgwrite.c
+### Official examples
+- https://github.com/LibreDWG/libredwg/blob/master/programs
+
+### Using
+- [dirkarnez/libredwg-prebuilt](https://github.com/dirkarnez/libredwg-prebuilt)
